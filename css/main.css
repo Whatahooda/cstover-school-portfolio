@@ -1,0 +1,67 @@
+/* Fonts */
+
+
+
+/* Nav */
+
+.navigation{
+  background-color: rgba(0,0,0,0);
+  border: none;
+}
+
+/* Hero */
+
+#hero{
+  background-image: url("../img/home-hero.jpg");
+  background-attachment: scroll;
+  background-size: cover;
+  min-height: 350px;
+}
+
+#hero h2{
+  text-align: center;
+  position: relative;
+  top: 40px;
+}
+
+.quote-box{
+  padding-top: 8%;
+}
+
+/* Home Me */
+
+#homeMe{
+  /* height: 300px;
+  background-color: #999;
+  border: 10px solid;
+  border-color: #777 */
+  background-image: url("../img/charcoal_background_cut.jpg");
+  background-size: cover;
+  min-height: 750px;
+}
+
+.about-box{
+  padding-top: 50px;
+}
+
+.about-box i{
+  font-size: 30px;
+  padding-bottom: 10px;
+}
+
+.steps{
+  text-align: center;
+}
+
+/* Footer */
+
+footer{
+  height: 65px;
+  background-color: #777;
+}
+
+footer h3{
+  text-align: center;
+  color: #555;
+  font-size: 15px;
+}
