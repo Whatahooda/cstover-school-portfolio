@@ -13,9 +13,9 @@
 
 #hero{
   background-image: url("../img/cover-letter-hero.jpeg");
-  background-attachment: fixed;
+  background-attachment: scroll;
   background-size: cover;
-  background-position: center;
+  background-position: top;
   min-height: 350px;
 }
 
@@ -31,8 +31,8 @@
 
 /* Cover Letter */
 
-.letter{
-  /*width: 75%;*/
+.letter-box{
+  background-color: #eee;
 }
 
 /* Footer */

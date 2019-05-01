@@ -1,0 +1,45 @@
+/* Fonts */
+
+
+
+/* Nav */
+
+.navigation{
+  background-color: rgba(0,0,0,0);
+  border: none;
+}
+
+/* Hero */
+
+#hero{
+  background-image: url("../img/resume-hero.jpg");
+  background-attachment: scroll;
+  background-size: cover;
+  min-height: 350px;
+}
+
+#hero h2{
+  text-align: center;
+  position: relative;
+  top: 40px;
+  color: #eee
+}
+
+.quote-box{
+  padding-top: 8%;
+}
+
+/* Hero End */
+
+/* Footer */
+
+footer{
+  height: 65px;
+  background-color: #222;
+}
+
+footer h3{
+  text-align: center;
+  color: #555;
+  font-size: 15px;
+}
