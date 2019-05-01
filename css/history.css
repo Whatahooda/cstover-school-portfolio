@@ -1,0 +1,71 @@
+/* Fonts */
+
+
+
+/* Nav */
+
+.navigation{
+  background-color: rgba(0,0,0,0);
+  border: none;
+}
+
+/* Hero */
+
+#hero{
+  background-color: #222;
+  min-height: 200px;
+}
+
+#hero h2{
+  text-align: center;
+  position: relative;
+  top: -30px;
+  color: #777;
+}
+
+.quote-box{
+  padding-top: 8%;
+}
+/* Hero End */
+
+/* English */
+
+#history-box{
+  background-image: url("../img/history-hero.jpg");
+  background-attachment: scroll;
+  background-size: cover;
+  height: 650px;
+}
+
+.history-video{
+  margin-top: 215px;
+}
+
+.history-description{
+  text-align: center;
+  background-color: #222;
+  position: absolute;
+  margin-top: 35px;
+}
+
+.history-description h1{
+  color: #888;
+}
+
+.history-description p{
+  color: #777;
+  padding-top: 30px;
+}
+
+/* Footer */
+
+footer{
+  height: 65px;
+  background-color: #222;
+}
+
+footer h3{
+  text-align: center;
+  color: #555;
+  font-size: 15px;
+}

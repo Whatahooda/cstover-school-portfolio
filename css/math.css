@@ -1,0 +1,70 @@
+/* Fonts */
+
+
+
+/* Nav */
+
+.navigation{
+  background-color: rgba(0,0,0,0);
+  border: none;
+}
+
+/* Hero */
+
+#hero{
+  background-color: #222;
+  min-height: 200px;
+}
+
+#hero h2{
+  text-align: center;
+  position: relative;
+  top: -30px;
+  color: #777;
+}
+
+.quote-box{
+  padding-top: 8%;
+}
+/* Hero End */
+
+/* English */
+
+#math-box{
+  background-image: url("../img/math-hero.jpg");
+  background-attachment: scroll;
+  background-size: cover;
+  height: 500px;
+}
+
+.math-video{
+  padding-top: 55px;
+}
+
+.math-description{
+  background-color: #222;
+  position: absolute;
+  margin-top: 85px;
+}
+
+.math-description h1{
+  color: #888;
+}
+
+.math-description p{
+  color: #777;
+  padding-top: 30px;
+}
+
+/* Footer */
+
+footer{
+  height: 65px;
+  background-color: #222;
+}
+
+footer h3{
+  text-align: center;
+  color: #555;
+  font-size: 15px;
+}

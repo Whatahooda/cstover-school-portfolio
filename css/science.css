@@ -1,0 +1,86 @@
+/* Fonts */
+
+
+
+/* Nav */
+
+.navigation{
+  background-color: rgba(0,0,0,0);
+  border: none;
+}
+
+/* Hero */
+
+#hero{
+  background-image: url("../img/science-hero.jpg");
+  background-attachment: scroll;
+  background-size: cover;
+  background-position: center;
+  min-height: 350px;
+}
+
+#hero h2{
+  text-align: center;
+  position: relative;
+  top: 40px;
+}
+
+.quote-box{
+  margin-top: 10%;
+  background-color: #222;
+}
+
+.quote-box h2{
+  color: #888;
+  margin-bottom: 55px;
+  margin-top: -20px;
+}
+
+/*  */
+
+.divider{
+  height: 50px;
+  background-color: #222;
+}
+
+#science-box{
+  height: 700px;
+  background-image: url("../img/science-background-copy.jpg");
+  background-color: rgba(255, 0, 0, 0);
+  background-size: cover;
+  background-attachment: scroll;
+}
+
+.science-image{
+  margin-top: 45px;
+  position: absolute;
+}
+
+.science-description{
+  background-color: #222;
+  height: 300px;
+  margin-left: 65px;
+  margin-top: 190px;
+}
+
+.science-description h1{
+  color: #777;
+  text-align: center;
+}
+
+.science-description p{
+  color: #777;
+}
+
+/* Footer */
+
+footer{
+  height: 65px;
+  background-color: #222;
+}
+
+footer h3{
+  text-align: center;
+  color: #555;
+  font-size: 15px;
+}
