@@ -34,10 +34,20 @@
   /* height: 300px;
   background-color: #999;
   border: 10px solid;
-  border-color: #777 */
+  border-color: #222; */
   background-image: url("../img/charcoal_background_cut.jpg");
+  background-position: bottom;
   background-size: cover;
   min-height: 750px;
+}
+
+.portrait{
+  width: 290px;
+  height: 400px;
+  margin-top: 70px;
+  object-fit: cover;
+  object-position: bottom;
+  border-radius: 20%;
 }
 
 .about-box{
@@ -53,11 +63,21 @@
   text-align: center;
 }
 
+.home-name{
+  margin-top: 170px;
+  width: 300px;
+}
+
+.home-name h1{
+  color: #dfdfdf;
+  padding-top: 15px;
+}
+
 /* Footer */
 
 footer{
   height: 65px;
-  background-color: #777;
+  background-color: #222;
 }
 
 footer h3{
